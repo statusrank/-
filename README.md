@@ -5,6 +5,7 @@
 跨媒体推荐：曹天伟
 
 XCurve: 
+
 	- AUPRC 佩松
 
 	- AUTKC、OpenAUC 子泰
@@ -21,6 +22,5 @@ XCurve:
 
 姜璇 IJCAI
 
-于志鹏 ACM MM
 ...
 以及其他中过论文的小伙伴都需要写。
